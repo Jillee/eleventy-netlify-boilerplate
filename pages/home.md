@@ -7,7 +7,7 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome to ContractBridge.Club
+# Welcome to www.ContractBridge.Club
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
